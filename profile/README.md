@@ -1,4 +1,4 @@
-~# ATF-Tuner – Auto-Tuning Framework
+# ATF-Tuner – Auto-Tuning Framework
 
 This GitHub organization hosts the [**Auto-Tuning Framework (ATF)**](https://dl.acm.org/doi/10.1145/3427093) and related tools.
 ATF is a research-driven framework for automatically tuning performance-critical program parameters.
