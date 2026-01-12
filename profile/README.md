@@ -1,6 +1,6 @@
-# ATF-Tuner – Auto-Tuning Framework
+~# ATF-Tuner – Auto-Tuning Framework
 
-This GitHub organization hosts the **Auto-Tuning Framework (ATF)** and related tools.
+This GitHub organization hosts the [**Auto-Tuning Framework (ATF)**](https://dl.acm.org/doi/10.1145/3427093) and related tools.
 ATF is a research-driven framework for automatically tuning performance-critical program parameters.
 
 The repositories in this organization provide language bindings, libraries, and
@@ -20,13 +20,13 @@ The projects here are primarily research-oriented, but aim to be usable and exte
 ## Repository Overview
 
 ### pyATF
-Python interface and tooling for ATF.
+Python interface and tooling for ATF (see also [this paper](https://dl.acm.org/doi/10.1145/3708493.3712682)).
 Provides bindings, examples, and utilities for driving the auto-tuning process from Python-based workflows.
 
 Repository: `pyATF`
 
 ### cppATF
-C++ interface for integrating ATF into native applications.
+C++ interface for integrating ATF into native applications (see also [this paper](https://ieeexplore.ieee.org/document/8291912)).
 Designed as a lightweight, header-only interface suitable for performance-critical code.
 
 Repository: `cppATF`
